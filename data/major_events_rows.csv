@@ -1,0 +1,10 @@
+id,event_name,event_type,release_date,platform_notes,notes,short_window_days,standard_window_days,baseline_window_days,end_date,game_id
+1,Gears of War: E-Day,Game Release,2026-10-06,PC and Xbox,Major game release being observed for changes in Steam activity.,7,14,30,,
+2,ARC Raiders: Frozen Trail,Major Update,2026-10-08,PC and consoles,Major ARC Raiders content update.,7,14,30,,5
+3,Call of Duty: Modern Warfare 4,Game Release,2026-10-23,PC and consoles,Major Call of Duty release.,7,14,30,,6
+4,Grand Theft Auto VI,External Console Release,2026-11-19,Console release,Used to observe whether a major console-only release corresponds with changes in Steam activity.,7,14,30,,
+5,ARC Raiders PvE Beta Test,Beta Test,2026-10-13,PC and consoles,Limited-time PvE beta being observed for changes in ARC Raiders player activity and potential player return or increased engagement.,7,14,30,2026-10-20,5
+7,Battlefield 6 Season 5,Major Update,2026-10-13,PC and consoles,"Season 5 launch for Battlefield 6, being observed for changes in player activity and player return.",7,14,30,,4
+8,Battlefield 6 Season 5 - Phase 1: Siege of Las Vegas,Season Phase,2026-10-13,PC and consoles,Phase 1 of Battlefield 6 Season 5. Includes Siege of Las Vegas content and the initial Season 5 launch.,7,14,30,2026-11-09,4
+9,Battlefield 6 Season 5 - Phase 2: Casino Heist,Season Phase,2026-11-10,PC and consoles,"Phase 2 of Battlefield 6 Season 5, including the Casino Heist content update.",7,14,30,2026-12-07,4
+10,Battlefield 6 Season 5 - Phase 3: Frozen Aces,Season Phase,2026-12-08,PC and consoles,"Phase 3 of Battlefield 6 Season 5, including Frozen Aces and later-season features.",7,14,30,2027-01-18,4
